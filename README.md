@@ -3,7 +3,7 @@
 
 I build production AI systems for real-world infrastructure problems.
 
-With 2.5+ years of experience, I specialize in designing end-to-end ML pipelines — from large-scale data processing to model deployment and measurable field impact.
+With 2.5+ years of experience, I specialize in designing end-to-end ML pipelines from large-scale data processing to model deployment and measurable field impact.
 
 ---
 
