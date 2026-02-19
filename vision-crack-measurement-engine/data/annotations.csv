@@ -1,0 +1,6 @@
+Image Name,Image Width,Image Height,Crack Type,Polygon
+sample_image.jpg,3840,2160,Block Cracking,"[[1197, 2151], [1982, 2149], [1986, 2073], [2050, 2030], [2083, 1969], [2048, 1933], [2012, 1876], [1381, 1881], [1199, 2137]]"
+sample_image.jpg,3840,2160,Lane Segmentor,"[[1500, 1737], [2300, 1737], [2570, 2080], [1190, 2080]]"
+sample_image.jpg,3840,2160,Longitudinal Cracking,"[[1694, 1806], [1722, 1806], [1703, 1875], [1646, 1875]]"
+sample_image.jpg,3840,2160,Pothole,"[[1710, 1735], [1761, 1742], [1767, 1781], [1700, 1781]]"
+sample_image.jpg,3840,2160,Alligator Crack,"[[2070, 1760], [2225, 1771], [2400, 2070], [2175, 2070]]"
