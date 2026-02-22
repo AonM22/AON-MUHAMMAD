@@ -1,0 +1,12 @@
+environment: local
+
+batch:
+  size: 8
+  max_retries: 3
+
+paths:
+  input_dir: data/input
+  output_dir: data/output
+
+logging:
+  level: INFO
