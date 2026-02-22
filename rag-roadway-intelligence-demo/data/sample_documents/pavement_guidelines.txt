@@ -1,0 +1,148 @@
+# Pavement Condition Assessment and Cracking Measurement Guidelines
+## State Department of Transportation - Pavement Management Division
+## Effective Date: March 1, 2023
+## Document ID: PMD-GDL-CRK-23-01
+
+## 1. Purpose and Scope
+This guideline establishes standardized criteria for identifying, measuring, classifying, and recording flexible pavement cracking distress on state-maintained roadways. It is intended for inspectors, maintenance engineers, quality-control staff, and pavement management analysts. The objective is consistent distress classification across districts and reliable Pavement Condition Index (PCI) scoring for maintenance and rehabilitation programming.
+
+The document applies to asphalt concrete pavements surveyed at network level and project level. Distress types addressed include longitudinal cracking, transverse cracking, and alligator cracking. Measurements shall be recorded in inches, feet, and square feet using calibrated field tools.
+
+## 2. Definitions
+Longitudinal Cracking: cracks approximately parallel to centerline, frequently associated with construction joints, wheel-path fatigue, reflective movement, or thermal effects.
+
+Transverse Cracking: cracks approximately perpendicular to centerline, typically caused by thermal contraction and shrinkage stresses.
+
+Alligator Cracking: interconnected cracking pattern forming small polygons, usually indicating fatigue-related structural weakness.
+
+Crack Width: average opening at representative points along a segment, recorded in inches.
+
+Crack Length: linear extent of a crack segment, recorded in feet.
+
+Affected Area: plan-view area of interconnected cracking, recorded in square feet.
+
+## 3. Survey and Measurement Requirements
+### 3.1 Equipment
+Use calibrated crack width gauges with at least 0.02-inch resolution and measuring wheel or tape with at least 0.1-foot resolution. Capture digital imagery for high severity distress records and georeference all documented locations.
+
+### 3.2 Sampling and Segmentation
+For network surveys, inspect each lane in 0.1-mile sample units unless an approved district variation exists. For project-level surveys, inspect full project limits by lane. Where distress severity changes along a crack, separate entries shall be recorded by severity class.
+
+### 3.3 Recording Rules
+Longitudinal and transverse distress shall be recorded as linear feet by severity. Alligator distress shall be recorded as area by severity. Do not convert alligator cracking to equivalent length for PCI input.
+
+## 4. Longitudinal Cracking Severity Levels
+Severity shall be assigned using crack width, edge condition, and signs of moisture-related deterioration.
+
+### 4.1 Low Severity (L)
+- Average width less than 0.25 inch.
+- Little to no edge raveling and no pumping.
+- No adjacent patch distress attributable to crack movement.
+Measurement threshold:
+- Record when cumulative length exceeds 10 feet in a sample unit.
+Typical maintenance:
+- Monitoring or routine crack sealing.
+
+### 4.2 Medium Severity (M)
+- Average width 0.25 inch to 0.75 inch.
+- Minor spalling, localized edge deterioration, or secondary branching.
+- Moisture staining may be present.
+Measurement threshold:
+- Record when cumulative length exceeds 5 feet in a sample unit.
+Typical maintenance:
+- Routing and sealing, with localized patching where edge breakup exists.
+
+### 4.3 High Severity (H)
+- Average width greater than 0.75 inch.
+- Moderate to severe spalling, pumping, breakup, or associated rutting.
+- Open crack indicates elevated infiltration risk to base and subgrade.
+Measurement threshold:
+- Record full length regardless of extent.
+- Any single high severity crack longer than 15 feet requires maintenance review in the current fiscal year.
+Typical maintenance:
+- Structural patching, mill-and-overlay with crack relief, or full-depth repair based on structural testing.
+
+## 5. Transverse Cracking Criteria
+### 5.1 Low Severity
+- Width less than 0.20 inch.
+- No faulting or edge loss.
+Treatment guidance:
+- Seal as needed in preventive maintenance cycle.
+
+### 5.2 Medium Severity
+- Width 0.20 inch to 0.50 inch.
+- Minor spalling or localized edge raveling.
+Treatment guidance:
+- Crack treatment plus targeted surface correction where frequency is increasing.
+
+### 5.3 High Severity
+- Width greater than 0.50 inch, or any width with pronounced breakup.
+- Faulting greater than 0.25 inch at crossing locations.
+Treatment guidance:
+- Rehabilitation strategy required; evaluate overlay or localized reconstruction.
+
+Measurement requirements:
+- Record each transverse crack length across lane width in feet.
+- Record by lane for multilane facilities.
+- If cracking extends into shoulder, report lane extent unless shoulder is in project scope.
+
+## 6. Alligator Cracking Definition and Severity
+Alligator cracking is an interconnected fatigue pattern, often in wheel paths, associated with structural deficiency.
+
+### 6.1 Low Severity
+- Fine interconnected pattern with minimal movement.
+- No pumping and limited edge disintegration.
+- Typical isolated area less than 10 square feet.
+Recommended action:
+- Monitor and verify support condition prior to surface-only treatment.
+
+### 6.2 Medium Severity
+- Distinct interconnected pattern with moderate edge deterioration.
+- Localized pumping may occur under wet conditions.
+- Typical area 10 to 50 square feet per location.
+Recommended action:
+- Partial-depth patching and drainage correction; overlay where warranted.
+
+### 6.3 High Severity
+- Severe breakup, loose pieces, pumping, and deformation.
+- Area greater than 50 square feet, or repeated medium patches within 100 feet.
+Recommended action:
+- Full-depth patching or reconstruction of affected structural section.
+
+## 7. Measurement Thresholds Summary (Inches and Feet)
+- Longitudinal Low: less than 0.25 inch; report above 10 feet cumulative.
+- Longitudinal Medium: 0.25 to 0.75 inch; report above 5 feet cumulative.
+- Longitudinal High: greater than 0.75 inch; report all lengths.
+- Transverse Low: less than 0.20 inch.
+- Transverse Medium: 0.20 to 0.50 inch.
+- Transverse High: greater than 0.50 inch or faulting above 0.25 inch.
+- Alligator Medium: 10 to 50 square feet.
+- Alligator High: greater than 50 square feet.
+
+## 8. PCI Scoring Guidelines
+PCI scoring shall follow ASTM D6433 with state calibration. Distress density and severity directly influence deduct values.
+
+### 8.1 Distress Density Inputs
+- Longitudinal and transverse cracking entered as total length by severity per sample unit.
+- Alligator cracking entered as percent area by severity.
+
+### 8.2 Deduct Behavior
+- Low severity cracking generally yields small deduct values unless widespread.
+- Medium severity contributes moderate deduct progression and may interact with other distress types.
+- High severity, especially alligator distress, can substantially reduce PCI due to structural implications.
+
+### 8.3 PCI Interpretation Bands
+- PCI 85-100: Good, routine preventive maintenance.
+- PCI 70-84: Satisfactory, scheduled crack treatment.
+- PCI 55-69: Fair, overlay and targeted structural repair candidates.
+- PCI 40-54: Poor, major rehabilitation planning required.
+- PCI below 40: Very Poor to Failed, reconstruction likely.
+
+If high severity alligator cracking exceeds 5 percent of a sample unit, flag section for engineering review regardless of calculated PCI.
+
+## 9. Quality Control and Reporting
+District pavement managers shall review a representative sample of survey units for classification consistency. Field and automated extraction results should be compared at calibration sites, and significant classification drift shall trigger recalibration.
+
+Survey data shall be submitted to the pavement management system within 15 business days of collection. High severity longitudinal and alligator cracking requiring near-term risk mitigation shall be escalated to maintenance operations.
+
+End of Document.

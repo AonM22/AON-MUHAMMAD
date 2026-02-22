@@ -1,0 +1,121 @@
+# 2023 Roadway Pavement Inspection Report
+## Agency: State Department of Transportation, District 4
+## Survey Program: Annual Network-Level Pavement Condition Survey
+## Survey Date: September 14-18, 2023
+## Report ID: D4-2023-PVMT-117
+
+## 1. Segment Information
+- Road Segment ID: US-27-NB-041.20-044.80
+- Route: U.S. Route 27 Northbound
+- County: Franklin County
+- Begin Milepost: 41.20
+- End Milepost: 44.80
+- Survey Length: 3.60 miles
+- Number of Through Lanes: 2
+- Lane Width: 12 feet
+- Pavement Type: Asphalt Concrete over granular base
+- Last Major Treatment: 2017 mill and 2-inch overlay
+
+## 2. Survey Methodology
+Visual windshield survey was completed at low speed with periodic stops for direct measurement. Crack widths were measured using calibrated crack comparator gauges. Crack lengths were measured with measuring wheel and confirmed by georeferenced tablet annotation. Distresses were classified according to PMD-GDL-CRK-23-01 severity definitions.
+
+## 3. Distress Summary by Milepost
+### 3.1 MP 41.20 to 42.00
+Observed Crack Types:
+- Longitudinal cracking in right wheel path and lane-shoulder joint.
+- Intermittent transverse thermal cracks.
+
+Measured Values:
+- Longitudinal Crack L1: average width 0.22 inch, length 148 feet (low severity).
+- Longitudinal Crack L2: average width 0.31 inch, length 96 feet (medium severity).
+- Transverse Crack T1-T6: widths 0.14 to 0.28 inch, individual lane crossing lengths 11.8 to 12.2 feet.
+- Total transverse crack length in subsection: 72 feet.
+
+Severity Classification:
+- Predominantly low to medium severity.
+
+Recommended Maintenance Action:
+- Route and seal medium longitudinal segments.
+- Seal transverse cracks wider than 0.20 inch during next preventive cycle.
+
+### 3.2 MP 42.00 to 43.10
+Observed Crack Types:
+- Increased longitudinal cracking in both wheel paths.
+- Localized alligator cracking near MP 42.64 and MP 42.88.
+
+Measured Values:
+- Longitudinal Crack L3: average width 0.78 inch, length 64 feet (high severity).
+- Longitudinal Crack L4: average width 0.69 inch, length 121 feet (medium severity).
+- Transverse Cracks T7-T14: widths 0.21 to 0.47 inch, spacing approximately 12 to 18 feet.
+- Alligator Area A1 at MP 42.64: 18 square feet, moderate breakup (medium severity).
+- Alligator Area A2 at MP 42.88: 56 square feet, loose pieces and pumping observed after rainfall (high severity).
+
+Severity Classification:
+- Mixed medium/high severity with structural distress indicators.
+
+Recommended Maintenance Action:
+- Full-depth patch at A2 location with base stabilization.
+- Partial-depth patch and drainage correction at A1.
+- Evaluate 0.4-mile subsection for mill-and-overlay after patch completion.
+### 3.3 MP 43.10 to 44.80
+Observed Crack Types:
+- Frequent transverse cracking and occasional joint-adjacent longitudinal cracks.
+- No significant alligator pattern except isolated low-severity block cracking at ramp gore.
+
+Measured Values:
+- Transverse Cracks T15-T39: widths 0.17 to 0.55 inch.
+- Seven transverse cracks measured above 0.50 inch with minor faulting up to 0.27 inch.
+- Cumulative transverse length: 298 feet.
+- Longitudinal Crack L5: average width 0.26 inch, length 44 feet (medium severity).
+
+Severity Classification:
+- Primarily medium severity transverse distress with isolated high-severity transverse events.
+
+Recommended Maintenance Action:
+- Prioritize crack sealing and localized leveling at faulted transverse locations.
+- Include subsection in next-year thin overlay candidate list.
+
+## 4. Quantified Distress Totals (Entire Segment)
+- Longitudinal Cracking:
+  - Low severity: 148 feet
+  - Medium severity: 261 feet
+  - High severity: 64 feet
+- Transverse Cracking:
+  - Low severity: 84 feet
+  - Medium severity: 286 feet
+  - High severity: 72 feet
+- Alligator Cracking:
+  - Medium severity: 18 square feet
+  - High severity: 56 square feet
+
+## 5. Condition Interpretation
+Distress profile indicates a transition from surface aging to localized structural failure within the center subsection. High severity longitudinal and alligator cracking at MP 42.64-42.88 suggests water infiltration and fatigue-related support loss. Remaining segment condition is serviceable with preventive actions but should be tracked closely for rapid distress growth.
+
+Estimated lane-level PCI indicators (screening values):
+- MP 41.20-42.00: PCI approximately 78
+- MP 42.00-43.10: PCI approximately 58
+- MP 43.10-44.80: PCI approximately 66
+Overall segment weighted PCI estimate: 67 (Fair)
+
+## 6. Recommended Work Program
+Immediate (0-6 months):
+1. Perform full-depth patching at high-severity alligator area (MP 42.88).
+2. Repair associated drainage shoulder edge to reduce moisture intrusion.
+3. Seal high-width longitudinal cracks greater than 0.75 inch.
+
+Near-Term (6-18 months):
+1. Conduct partial-depth patching at medium alligator location (MP 42.64).
+2. Complete route-and-seal operations on medium transverse and longitudinal cracks.
+3. Monitor post-winter crack propagation using targeted follow-up survey.
+
+Programmed (18-36 months):
+1. Mill and overlay 0.4 to 0.7 miles centered on MP 42.7, contingent on budget.
+2. Re-evaluate PCI after patch season to confirm rehabilitation limits.
+
+## 7. Inspector Notes
+Traffic levels during survey were moderate, with heavy truck concentration in right lane. Moisture staining and pumping were observed within 24 hours of rain event, supporting classification of severe structural distress in identified alligator zone. No immediate safety hazard from potholing was observed at time of inspection; however, progression risk is elevated in freeze-thaw periods.
+
+Prepared by:
+District 4 Pavement Evaluation Unit
+Signed: Senior Pavement Engineer, P.E.
+Date: September 22, 2023

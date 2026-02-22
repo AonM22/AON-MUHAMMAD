@@ -1,0 +1,8 @@
+sentence-transformers
+faiss-cpu
+numpy
+scikit-learn
+tqdm
+python-dotenv
+rich
+requests

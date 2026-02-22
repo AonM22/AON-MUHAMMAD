@@ -1,0 +1,10 @@
+[
+  {
+    "query": "What defines high severity longitudinal cracking?",
+    "expected_keywords": ["greater than", "inch", "severity"]
+  },
+  {
+    "query": "What maintenance is recommended for severe alligator cracking?",
+    "expected_keywords": ["rehabilitation", "overlay", "patch"]
+  }
+]
