@@ -1,0 +1,19 @@
+data:
+  csv_path: data/Islamabad houses.csv
+
+artifacts:
+  model_output_path: models/best_model.pkl
+  metrics_output_path: models/metrics.json
+
+training:
+  random_state: 42
+  cv_folds: 5
+
+models:
+  random_forest:
+    n_estimators: 300
+    max_depth: null
+  gradient_boosting:
+    n_estimators: 100
+    learning_rate: 0.1
+  linear_regression: {}

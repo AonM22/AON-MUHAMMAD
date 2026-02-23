@@ -1,0 +1,35 @@
+{
+  "timestamp_utc": "2026-02-23T09:39:42.148895+00:00",
+  "dataset_rows": 9215,
+  "dataset_columns": 19,
+  "missing_summary": {
+    "agency": 2659,
+    "agent": 2659
+  },
+  "target_column": "price_in_lac",
+  "training_config": {
+    "random_state": 42,
+    "cv_folds": 5
+  },
+  "best_model": "RandomForestRegressor",
+  "metrics": {
+    "LinearRegression": {
+      "cv_mae_mean": 125.26607299824111,
+      "cv_mae_std": 8.657049101354636,
+      "cv_rmse_mean": 289.08382859909597,
+      "cv_rmse_std": 37.510325548842786
+    },
+    "RandomForestRegressor": {
+      "cv_mae_mean": 61.347758913641336,
+      "cv_mae_std": 7.1187295026237924,
+      "cv_rmse_mean": 185.8919719169356,
+      "cv_rmse_std": 42.25014178997895
+    },
+    "GradientBoostingRegressor": {
+      "cv_mae_mean": 95.47097976901333,
+      "cv_mae_std": 6.407041608137502,
+      "cv_rmse_mean": 205.4320937698579,
+      "cv_rmse_std": 34.78103660661155
+    }
+  }
+}

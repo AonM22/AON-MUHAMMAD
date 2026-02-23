@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.pytest_cache/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# ML artifacts
+models/*.pkl
+models/*.joblib
+
+# Optional local outputs
+*.log
