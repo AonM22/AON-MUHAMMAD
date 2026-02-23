@@ -2,19 +2,11 @@ name: CI
 
 on:
   push:
-    paths:
-      - "housing-price-ml-system/**"
   pull_request:
-    paths:
-      - "housing-price-ml-system/**"
 
 jobs:
   quality:
     runs-on: ubuntu-latest
-
-    defaults:
-      run:
-        working-directory: housing-price-ml-system
 
     steps:
       - uses: actions/checkout@v4

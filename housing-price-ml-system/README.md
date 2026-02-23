@@ -36,6 +36,9 @@ Final model feature set (aligned to notebook logic + production constraints):
 - `date_added_day` (engineered)
 - `date_added_dayofweek` (engineered)
 
+## System Architecture
+![System Architecture](architecture.png)
+
 ## Architecture
 Pipeline flow:
 1. Load data (`src/preprocessing.py`)
@@ -61,8 +64,11 @@ housing-price-ml-system/
 |   |-- train.py
 |   |-- evaluate.py
 |   |-- predict.py
+|   |-- schema.py
+|   |-- logger.py
 |   `-- api.py
 |-- tests/
+|   |-- test_pipeline.py
 |   |-- test_feature_contract.py
 |   `-- test_api.py
 |-- models/
@@ -70,6 +76,7 @@ housing-price-ml-system/
 |   `-- exploration.ipynb
 |-- .github/workflows/ci.yml
 |-- Dockerfile
+|-- LICENSE
 |-- requirements.txt
 `-- README.md
 ```
@@ -86,6 +93,17 @@ Artifacts created:
 - `models/best_model.pkl`
 - `models/metrics.json`
 
+Run standalone evaluation on holdout data:
+```bash
+python src/evaluate.py
+```
+
+This writes:
+```json
+{"mae": ..., "rmse": ..., "r2": ...}
+```
+to `models/metrics.json`.
+
 ## Model Comparison Results (5-Fold CV)
 Trained models:
 - `LinearRegression`
@@ -101,6 +119,29 @@ Latest run results:
 | LinearRegression | 125.27 | 289.08 |
 
 Best model selected automatically: **RandomForestRegressor**.
+
+## Example Output
+Training (`python src/train.py --config configs/train.yaml`):
+```text
+Model Comparison (5-fold CV):
+                    model  cv_mae_mean  cv_mae_std  cv_rmse_mean  cv_rmse_std
+    RandomForestRegressor    61.347759    7.118730    185.891972    42.250142
+GradientBoostingRegressor    95.470980    6.407042    205.432094    34.781037
+         LinearRegression   125.266073    8.657049    289.083829    37.510326
+
+Best model: RandomForestRegressor
+Saved model to: models\best_model.pkl
+Saved metrics to: models/metrics.json
+```
+
+Evaluation (`python src/evaluate.py`):
+```text
+Evaluation complete:
+- MAE:  21.9242
+- RMSE: 61.1452
+- R2:   0.9833
+Saved evaluation metrics to: models/metrics.json
+```
 
 ## Prediction (Python)
 ```python
